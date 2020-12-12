@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Heroku Flow Test App</title>
+        <title>Heroku Flow Test App by fcayon</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
